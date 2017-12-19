@@ -1,5 +1,5 @@
 # FlickerProgressBar
-
+这个是我自己备忘用的，源代码地址：https://github.com/LineChen/FlickerProgressBar
 
 ### 自定义属性
 
@@ -39,9 +39,7 @@
    limitations under the License.
 ```
 
-欢迎关注微信公众号
 
-![欢迎关注微信公众号](https://github.com/LineChen/FlickerProgressBar/blob/master/qrcode_wechat.jpg)
 
 
 
