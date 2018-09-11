@@ -1,5 +1,4 @@
 # FlickerProgressBar
-这个是我自己备忘用的，源代码地址：https://github.com/LineChen/FlickerProgressBar
 
 ### 自定义属性
 
@@ -14,17 +13,13 @@
 
 ### 效果图
 
-![pic](https://github.com/LineChen/FlikerProgressBar/blob/master/screenshot/screenshot.gif)
-
-### 更新历史
->1. First commit on  2016/8/26
->2. Add round support adn fix reset function on 2016/11/11
+![pic](https://github.com/Vension/FlickerProgressBar/blob/master/screenshot/screenshot.gif)
 
 
 # License
 
 ```
-   Copyright  2016 LineChen <15764230067@163.com>
+   Copyright  2016 Vension
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
